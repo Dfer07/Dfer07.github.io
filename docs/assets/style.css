@@ -89,7 +89,7 @@ h6 {
   .linktree {
 	  width: 354px;
 	  height: 472px;
-	  background-image: url("AvatarDiego.jpg"); /* En estas comillas van tu URL de la imagen a usar de tu rostro*/
+	  background-image: url("../assets/AvatarDiego.jpg"); /* En estas comillas van tu URL de la imagen a usar de tu rostro*/
 	  background-size: cover;
 	  background-repeat: no-repeat;
 	  background-position: 50% 50%;
